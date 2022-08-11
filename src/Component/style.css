@@ -1,5 +1,5 @@
 body {
-    background-color: aqua;
+    background-color:sienna;
 }
 
 .Input {
@@ -23,7 +23,7 @@ h1 {
     position: absolute;
     left: 30rem;
     text-decoration: underline;
-    color: crimson;
+    color: wheat;
     bottom: 20em;
 }
 
@@ -34,7 +34,8 @@ h1 {
     top: 12rem;
     left: 10rem;
     border-radius: 30px;
-    background-color: yellowgreen;
+    background-color: black;
+    color: white;
     cursor: pointer;
 
 }
@@ -42,7 +43,6 @@ h1 {
 input {
     position: absolute;
     left: 10rem;
-
 }
 
 hr {
